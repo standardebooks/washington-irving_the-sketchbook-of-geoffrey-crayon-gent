@@ -5,6 +5,21 @@ section > header{
 	text-align: center;
 }
 
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i7{
+	text-indent: -1em;
+	padding-left: 8em;
+}
+
+p span.i8{
+	text-indent: -1em;
+	padding-left: 9em;
+}
+
 abbr.name{
 	white-space: nowrap;
 }
@@ -36,6 +51,21 @@ footer{
 
 [epub|type~="epigraph"] cite i{
 	font-style: italic;
+}
+
+[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
 }
 
 [epub|type~="z3998:salutation"],
