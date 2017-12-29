@@ -1,6 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.name{
+	white-space: nowrap;
+}
+
+footer{
+	text-align: right;
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:salutation"],
 .signature{
 	font-variant: small-caps;
 }
