@@ -29,9 +29,27 @@ abbr.name{
 	white-space: nowrap;
 }
 
+b{
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
 footer{
 	text-align: right;
 	margin-top: 1em;
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	margin: 0 auto 3em auto;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i{
+	font-style: normal;
 }
 
 [epub|type~="epigraph"]{
