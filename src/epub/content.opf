@@ -39,7 +39,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Note 20 was originally misattributed to Chaucer, but has been corrected to credit Thomas Usk in this production.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</meta>
