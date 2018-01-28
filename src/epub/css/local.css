@@ -5,6 +5,25 @@ section > header{
 	text-align: center;
 }
 
+table{
+	width: 100%;
+}
+
+td[epub|type~="z3998:persona"]{
+    font-variant: all-small-caps;
+	text-align: right;
+	width: 30%;
+}
+
+td{
+	vertical-align: top;
+	padding: .5em;
+}
+
+td p{
+	text-indent: 0;
+}
+
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
@@ -28,6 +47,10 @@ p span.i7{
 p span.i8{
 	text-indent: -1em;
 	padding-left: 9em;
+}
+
+p span.signature{
+	font-variant: small-caps;
 }
 
 abbr.name{
