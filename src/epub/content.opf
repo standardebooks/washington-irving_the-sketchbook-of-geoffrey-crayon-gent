@@ -131,8 +131,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
+		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="the-authors-account-of-himself.xhtml"/>
 		<itemref idref="the-voyage.xhtml"/>
