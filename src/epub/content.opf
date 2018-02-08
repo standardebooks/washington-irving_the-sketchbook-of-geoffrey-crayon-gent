@@ -31,41 +31,46 @@
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2048</meta>
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2048</meta>
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2048</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Travel</meta>
+		<dc:description id="description">The Sketch Book, to which it is commonly referred, is a collection of 34 essays and short stories, including most notably two of Irving’s most famous writings “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketch Book&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition later published in 1848. &lt;i&gt;The Sketch Book&lt;/i&gt; is the first publication to use Irving’s pseudonym Geoffrey Crayon that he would carry into later works.&lt;/p&gt;
+			&lt;p&gt;The stories within vary in nature, from the comical “The Mutability of Literature” to the eerie and seemngly supernatural “The Legend of Sleepy Hollow,” but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.&lt;/p&gt;
+			&lt;p&gt;Two of the collected works, “The Legend of Sleepy Hollow” and “Rip Van Winkle,” are Irving’s most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Note 20 and the epigraph in L’Envoy were originally misattributed to Chaucer, but have been corrected to credit their correct authors for this production.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">125539</meta>
+		<meta property="se:reading-ease.flesch">48.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/washington-irving_the-sketch-book-of-geoffrey-crayon-gent</meta>
 		<dc:creator id="author">Washington Irving</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Irving, Washington</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Washington_Irving</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79005645</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">John Quidor</dc:contributor>
+		<meta property="file-as" refines="#artist">Quidor, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Quidor</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr89011196</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Nelson Nieves</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Nieves, Nelson</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Kenneth Williams</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Williams, Kenneth</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://scriptdaemon.me</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -80,14 +85,90 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-royal-poet.xhtml" id="a-royal-poet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-sunday-in-london.xhtml" id="a-sunday-in-london.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/christmas-day.xhtml" id="christmas-day.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/christmas-eve.xhtml" id="christmas-eve.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/christmas.xhtml" id="christmas.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/english-writers-on-america.xhtml" id="english-writers-on-america.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/john-bull.xhtml" id="john-bull.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lenvoy.xhtml" id="lenvoy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/little-britain.xhtml" id="little-britain.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/london-antiques.xhtml" id="london-antiques.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/philip-of-pokanoket.xhtml" id="philip-of-pokanoket.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rip-van-winkle.xhtml" id="rip-van-winkle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/roscoe.xhtml" id="roscoe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rural-funerals.xhtml" id="rural-funerals.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rural-life-in-england.xhtml" id="rural-life-in-england.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/stratford-on-avon.xhtml" id="stratford-on-avon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-angler.xhtml" id="the-angler.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-art-of-book-making.xhtml" id="the-art-of-book-making.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-authors-account-of-himself.xhtml" id="the-authors-account-of-himself.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-boars-head-tavern-eastcheap.xhtml" id="the-boars-head-tavern-eastcheap.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-broken-heart.xhtml" id="the-broken-heart.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-christmas-dinner.xhtml" id="the-christmas-dinner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-country-church.xhtml" id="the-country-church.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-inn-kitchen.xhtml" id="the-inn-kitchen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-legend-of-sleepy-hollow.xhtml" id="the-legend-of-sleepy-hollow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-mutability-of-literature.xhtml" id="the-mutability-of-literature.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-pride-of-the-village.xhtml" id="the-pride-of-the-village.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-spectre-bridegroom.xhtml" id="the-spectre-bridegroom.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-stage-coach.xhtml" id="the-stage-coach.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-voyage.xhtml" id="the-voyage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-widow-and-her-son.xhtml" id="the-widow-and-her-son.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wife.xhtml" id="the-wife.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/traits-of-indian-character.xhtml" id="traits-of-indian-character.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/westminster-abbey.xhtml" id="westminster-abbey.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-authors-account-of-himself.xhtml"/>
+		<itemref idref="the-voyage.xhtml"/>
+		<itemref idref="roscoe.xhtml"/>
+		<itemref idref="the-wife.xhtml"/>
+		<itemref idref="rip-van-winkle.xhtml"/>
+		<itemref idref="english-writers-on-america.xhtml"/>
+		<itemref idref="rural-life-in-england.xhtml"/>
+		<itemref idref="the-broken-heart.xhtml"/>
+		<itemref idref="the-art-of-book-making.xhtml"/>
+		<itemref idref="a-royal-poet.xhtml"/>
+		<itemref idref="the-country-church.xhtml"/>
+		<itemref idref="the-widow-and-her-son.xhtml"/>
+		<itemref idref="a-sunday-in-london.xhtml"/>
+		<itemref idref="the-boars-head-tavern-eastcheap.xhtml"/>
+		<itemref idref="the-mutability-of-literature.xhtml"/>
+		<itemref idref="rural-funerals.xhtml"/>
+		<itemref idref="the-inn-kitchen.xhtml"/>
+		<itemref idref="the-spectre-bridegroom.xhtml"/>
+		<itemref idref="westminster-abbey.xhtml"/>
+		<itemref idref="christmas.xhtml"/>
+		<itemref idref="the-stage-coach.xhtml"/>
+		<itemref idref="christmas-eve.xhtml"/>
+		<itemref idref="christmas-day.xhtml"/>
+		<itemref idref="the-christmas-dinner.xhtml"/>
+		<itemref idref="london-antiques.xhtml"/>
+		<itemref idref="little-britain.xhtml"/>
+		<itemref idref="stratford-on-avon.xhtml"/>
+		<itemref idref="traits-of-indian-character.xhtml"/>
+		<itemref idref="philip-of-pokanoket.xhtml"/>
+		<itemref idref="john-bull.xhtml"/>
+		<itemref idref="the-pride-of-the-village.xhtml"/>
+		<itemref idref="the-angler.xhtml"/>
+		<itemref idref="the-legend-of-sleepy-hollow.xhtml"/>
+		<itemref idref="lenvoy.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
