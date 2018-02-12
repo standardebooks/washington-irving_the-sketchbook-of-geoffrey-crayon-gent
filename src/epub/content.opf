@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-02-12T06:10:18Z</dc:date>
+		<meta property="dcterms:modified">2018-02-12T06:10:18Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -16,6 +16,17 @@
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+ 		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilityFeature">longDescription</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Sketch-Book of Geoffrey Crayon, Gent.</dc:title>
 		<meta property="file-as" refines="#title">Sketch-Book of Geoffrey Crayon, Gent., The</meta>
@@ -33,19 +44,18 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2048</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">A collection of 34 essays and short stories, including most notably two of Irving’s most famous writings “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
+		<dc:description id="description">A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketch-Book&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition later published in 1848. &lt;i&gt;The Sketch-Book&lt;/i&gt; is the first publication to use Irving’s pseudonym Geoffrey Crayon that he would carry into later works.&lt;/p&gt;
-			&lt;p&gt;The stories within vary in nature, from the comical “The Mutability of Literature” to the eerie and seemngly supernatural “The Legend of Sleepy Hollow,” but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.&lt;/p&gt;
-			&lt;p&gt;Two of the collected works, “The Legend of Sleepy Hollow” and “Rip Van Winkle,” are Irving’s most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman.&lt;/p&gt;
+			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketch-Book&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition published in 1848. &lt;i&gt;The Sketch-Book&lt;/i&gt; is the first publication to use Irving’s pseudonym Geoffrey Crayon, which he would carry into later works.&lt;/p&gt;
+			&lt;p&gt;The stories vary in nature, from the comical “The Mutability of Literature” to the eerie and seemingly supernatural “The Legend of Sleepy Hollow,” but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.&lt;/p&gt;
+			&lt;p&gt;Two of the stories, “The Legend of Sleepy Hollow” and “Rip Van Winkle,” are Irving’s most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Note 20 and the epigraph in L’Envoy were originally misattributed to Chaucer, but have been corrected to credit their correct authors for this production.</meta>
+		<meta property="se:production-notes">Note 20 and the epigraph in “L’Envoy” were originally misattributed to Chaucer, but have been corrected to credit their correct authors.</meta>
 		<meta property="se:word-count">125539</meta>
 		<meta property="se:reading-ease.flesch">48.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</meta>
@@ -77,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
