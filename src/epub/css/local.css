@@ -104,6 +104,15 @@ footer{
 	margin-top: 1em;
 }
 
+span.elision{
+	margin: .5em;
+	margin-left: 3rem;
+}
+
+[epub|type~="epigraph"] span.elision{
+	font-style: normal;
+}
+
 [epub|type~="z3998:salutation"],
 .signature{
 	font-variant: small-caps;
