@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent</dc:identifier>
 		<dc:date>2018-02-12T06:10:18Z</dc:date>
-		<meta property="dcterms:modified">2018-07-30T21:15:24Z</meta>
-		<meta property="se:revision-number">9</meta>
+		<meta property="dcterms:modified">2018-08-03T03:30:38Z</meta>
+		<meta property="se:revision-number">10</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,7 +56,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Note 20 and the epigraph in “L’Envoy” were originally misattributed to Chaucer, but have been corrected to credit their correct authors. Much highly archaic spelling is preserved as a matter of prose style.</meta>
-		<meta property="se:word-count">125545</meta>
+		<meta property="se:word-count">125550</meta>
 		<meta property="se:reading-ease.flesch">48.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/washington-irving_the-sketch-book-of-geoffrey-crayon-gent</meta>
