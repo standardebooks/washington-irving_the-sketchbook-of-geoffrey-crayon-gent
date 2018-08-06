@@ -156,7 +156,6 @@ section[epub|type~="epigraph"] > *{
 	margin-top: 3em;
 }
 
-
 [epub|type~="subchapter"] header + *,
 [epub|type~="z3998:poem"] header + *{
 	margin-top: 1em;
