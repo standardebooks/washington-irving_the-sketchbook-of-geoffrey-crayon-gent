@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Sketch-Book of Geoffrey Crayon, Gent.</dc:title>
 		<meta property="file-as" refines="#title">Sketch-Book of Geoffrey Crayon, Gent., The</meta>
 		<dc:subject id="subject-1">Irving, Washington, 1783-1859 -- Travel -- England</dc:subject>
@@ -35,22 +35,26 @@
 		<dc:subject id="subject-4">Hudson River Valley (N.Y. and N.J.) -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Americans -- England -- History -- 19th century</dc:subject>
 		<dc:subject id="subject-6">Catskill Mountains Region (N.Y.) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2048</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2048</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2048</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2048</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2048</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2048</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85043324</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85047117</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008115368</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2009114853</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008101815</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketch-Book&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition published in 1848. &lt;i&gt;The Sketch-Book&lt;/i&gt; is the first publication to use Irving’s pseudonym Geoffrey Crayon, which he would carry into later works.&lt;/p&gt;
 			&lt;p&gt;The stories vary in nature, from the comical “The Mutability of Literature” to the eerie and seemingly supernatural “The Legend of Sleepy Hollow,” but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.&lt;/p&gt;
 			&lt;p&gt;Two of the stories, “The Legend of Sleepy Hollow” and “Rip Van Winkle,” are Irving’s most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
