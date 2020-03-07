@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="rip-van-winkle.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>"Rip Van Winkle" is spelled with "Van" capitalized in all cases.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
