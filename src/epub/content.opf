@@ -59,7 +59,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Note 20 and the epigraph in “L’Envoy” were originally misattributed to Chaucer, but have been corrected to credit their correct authors. Much highly archaic spelling is preserved as a matter of prose style.</meta>
-		<meta property="se:word-count">125551</meta>
+		<meta property="se:word-count">125596</meta>
 		<meta property="se:reading-ease.flesch">48.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/washington-irving_the-sketch-book-of-geoffrey-crayon-gent</meta>
