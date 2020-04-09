@@ -6,4 +6,10 @@
 			<reason>"Rip Van Winkle" is spelled with "Van" capitalized in all cases.</reason>
 		</ignore>
 	</file>
+	<file path="stratford-on-avon.xhtml">
+		<ignore>
+			<code>s-012</code>
+			<reason>The theme break occurs within a play structure, so it must be placed in this way.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
