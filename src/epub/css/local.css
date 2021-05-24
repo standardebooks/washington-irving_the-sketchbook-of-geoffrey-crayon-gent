@@ -146,13 +146,13 @@ section[epub|type~="epigraph"] > *{
 	font-style: normal;
 }
 
-[epub|type~="subchapter"] header,
+[epub|type~="z3998:subchapter"] header,
 [epub|type~="z3998:poem"] header{
 	font-variant: small-caps;
 	margin-top: 3em;
 }
 
-[epub|type~="subchapter"] header + *,
+[epub|type~="z3998:subchapter"] header + *,
 [epub|type~="z3998:poem"] header + *{
 	margin-top: 1em;
 }
