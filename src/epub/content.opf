@@ -48,6 +48,7 @@
 		<meta property="term" refines="#subject-6">sh2008101815</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketch-Book&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition published in 1848. &lt;i&gt;The Sketch-Book&lt;/i&gt; is the first publication to use &lt;a href="https://standardebooks.org/ebooks/washington-irving"&gt;Irving’s&lt;/a&gt; pseudonym Geoffrey Crayon, which he would carry into later works.&lt;/p&gt;
