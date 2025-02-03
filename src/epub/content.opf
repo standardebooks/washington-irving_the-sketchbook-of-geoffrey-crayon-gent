@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent</dc:identifier>
 		<dc:date>2018-02-12T06:10:18Z</dc:date>
 		<meta property="dcterms:modified">2018-02-12T06:10:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Sketch-Book of Geoffrey Crayon, Gent.</dc:title>
-		<meta property="file-as" refines="#title">Sketch-Book of Geoffrey Crayon, Gent., The</meta>
+		<dc:title id="title">The Sketchbook of Geoffrey Crayon, Gent.</dc:title>
+		<meta property="file-as" refines="#title">Sketchbook of Geoffrey Crayon, Gent., The</meta>
 		<dc:subject id="subject-1">Irving, Washington, 1783-1859 -- Travel -- England</dc:subject>
 		<dc:subject id="subject-2">England -- Social life and customs -- 19th century</dc:subject>
 		<dc:subject id="subject-3">Fantasy fiction, American</dc:subject>
@@ -53,7 +53,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketch-Book&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition published in 1848. &lt;i&gt;The Sketch-Book&lt;/i&gt; is the first publication to use &lt;a href="https://standardebooks.org/ebooks/washington-irving"&gt;Irving’s&lt;/a&gt; pseudonym Geoffrey Crayon, which he would carry into later works.&lt;/p&gt;
+			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketchbook&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition published in 1848. &lt;i&gt;The Sketchbook&lt;/i&gt; is the first publication to use &lt;a href="https://standardebooks.org/ebooks/washington-irving"&gt;Irving’s&lt;/a&gt; pseudonym Geoffrey Crayon, which he would carry into later works.&lt;/p&gt;
 			&lt;p&gt;The stories vary in nature, from the comical “The Mutability of Literature” to the eerie and seemingly supernatural “The Legend of Sleepy Hollow,” but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.&lt;/p&gt;
 			&lt;p&gt;Two of the stories, “The Legend of Sleepy Hollow” and “Rip Van Winkle,” are Irving’s most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman.&lt;/p&gt;
 		</meta>
@@ -64,7 +64,7 @@
 		<meta property="se:word-count">125602</meta>
 		<meta property="se:reading-ease.flesch">48.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/washington-irving_the-sketch-book-of-geoffrey-crayon-gent</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/washington-irving_the-sketchbook-of-geoffrey-crayon-gent</meta>
 		<dc:creator id="author">Washington Irving</dc:creator>
 		<meta property="file-as" refines="#author">Irving, Washington</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Washington_Irving</meta>
