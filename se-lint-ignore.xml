@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Matched text is a complete clause.</reason>
+		</ignore>
+	</file>
 	<file path="rip-van-winkle.xhtml">
 		<ignore>
 			<code>s-023</code>
@@ -10,12 +16,6 @@
 		<ignore>
 			<code>s-012</code>
 			<reason>The theme break occurs within a play structure, so it must be placed in this way.</reason>
-		</ignore>
-	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>Matched text is a complete clause.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
