@@ -2,16 +2,19 @@
 <se-lint-ignore>
 	<file path="endnotes.xhtml">
 		<ignore code="t-017">
+			<line>241</line>
 			<reason>Matched text is a complete clause.</reason>
 		</ignore>
 	</file>
 	<file path="rip-van-winkle.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>"Rip Van Winkle" is spelled with "Van" capitalized in all cases.</reason>
 		</ignore>
 	</file>
 	<file path="stratford-on-avon.xhtml">
 		<ignore code="s-012">
+			<line>163</line>
 			<reason>The theme break occurs within a play structure, so it must be placed in this way.</reason>
 		</ignore>
 	</file>
