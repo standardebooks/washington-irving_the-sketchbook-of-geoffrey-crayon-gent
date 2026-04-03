@@ -51,6 +51,10 @@
 		<meta property="se:subject">Shorts</meta>
 		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">Rip Van Winkle</meta>
+		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-2">The Legend of Sleepy Hollow</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
