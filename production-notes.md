@@ -1,0 +1,1 @@
+Note 20 and the epigraph in “L’Envoy” were originally misattributed to Chaucer, but have been corrected to credit their correct authors. Much highly archaic spelling is preserved as a matter of prose style.
