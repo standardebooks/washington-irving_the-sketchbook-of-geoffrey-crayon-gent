@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent</dc:identifier>
 		<dc:date>2018-02-12T06:10:18Z</dc:date>
@@ -61,12 +61,12 @@
 		<meta property="rdf:type" refines="#collection-2-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-2-entry-1">The Legend of Sleepy Hollow</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of 34 essays and short stories, including “The Legend of Sleepy Hollow” and “Rip Van Winkle.”</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Initially published throughout 1819 and 1820, &lt;i&gt;The Sketchbook&lt;/i&gt; is a collection of 34 essays and short stories, collected and ordered according to the Author’s Revised Edition published in 1848. &lt;i&gt;The Sketchbook&lt;/i&gt; is the first publication to use &lt;a href="https://standardebooks.org/ebooks/washington-irving"&gt;Irving’s&lt;/a&gt; pseudonym Geoffrey Crayon, which he would carry into later works.&lt;/p&gt;
 			&lt;p&gt;The stories vary in nature, from the comical “The Mutability of Literature” to the eerie and seemingly supernatural “The Legend of Sleepy Hollow,” but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.&lt;/p&gt;
 			&lt;p&gt;Two of the stories, “The Legend of Sleepy Hollow” and “Rip Van Winkle,” are Irving’s most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
