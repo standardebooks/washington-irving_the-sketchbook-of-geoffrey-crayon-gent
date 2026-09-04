@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Sketchbook of Geoffrey Crayon, Gent.</dc:title>
 		<meta property="file-as" refines="#title">Sketchbook of Geoffrey Crayon, Gent., The</meta>
-		<dc:subject id="subject-1">Irving, Washington, 1783-1859 -- Travel -- England</dc:subject>
-		<dc:subject id="subject-2">England -- Social life and customs -- 19th century</dc:subject>
+		<dc:subject id="subject-1">Irving, Washington, 1783-1859--Travel--England</dc:subject>
+		<dc:subject id="subject-2">England--Social life and customs--19th century</dc:subject>
 		<dc:subject id="subject-3">Fantasy fiction, American</dc:subject>
-		<dc:subject id="subject-4">Hudson River Valley (N.Y. and N.J.) -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Americans -- England -- History -- 19th century</dc:subject>
-		<dc:subject id="subject-6">Catskill Mountains Region (N.Y.) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Hudson River Valley (N.Y. and N.J.)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Americans--England--History--19th century</dc:subject>
+		<dc:subject id="subject-6">Catskill Mountains Region (N.Y.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
