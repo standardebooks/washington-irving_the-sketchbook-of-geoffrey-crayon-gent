@@ -70,7 +70,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2048</dc:source>
 		<dc:source>https://books.google.com/books?id=BX5NAAAAYAAJ</dc:source>
-		<meta property="schema:wordCount">125154</meta>
+		<meta property="schema:wordCount">125153</meta>
 		<meta property="schema:educationalLevel">48.98</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent." rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
